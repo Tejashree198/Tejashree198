@@ -3,7 +3,7 @@
 <img align="right" width="450" height="300" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on a Website<br>🌱 I’m currently learning Javascript<br>😁Open for suggestions,Open to help<br>🎶 Fun fact: Krishna Can fix all the Bugs Belive me !!!
+🔭 I’m currently working on a Website<br>🌱 I’m currently learning Javascript<br>😁Open for suggestions,Open to help<br>🎶 Fun fact:Coding can “power up” your brain !!!
 
   
 ## 🌐 Socials:
