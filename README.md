@@ -8,8 +8,8 @@
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tejashree#2108)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashree19/) 
-<a href="https://wakatime.com/@Shree_19"><img src="https://wakatime.com/badge/user/018bafed-988f-4a8f-9158-c0465ae00d92.svg?"></a>
-<a href="https://wakatime.com/@Shree_19"><img src="https://komarev.com/ghpvc/?username=Shree_19&label=Total+Views&color=brightgreen"></a>
+<a href="https://wakatime.com/@Shree_19"><img src="https://wakatime.com/badge/user/018d17f3-b4cb-49de-b6bf-b0c098434b31.svg"></a>
+
 
 
 ## ✉️ Contact
